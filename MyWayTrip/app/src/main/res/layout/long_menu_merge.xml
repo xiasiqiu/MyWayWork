@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 整体菜单网格 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/banner"
+    android:background="@color/main_white">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="180.0dip"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_more_line_3" />
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_more_line_3" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0" />
+    </LinearLayout>
+
+    <!-- 每行数据 -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <!-- 第一行数据 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="90.0dip"
+            android:baselineAligned="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_1"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/parent_child"
+                    android:text="@string/long_tb_sichuan" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_2"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/camera"
+                    android:text="@string/long_tb_xibei" />
+
+                <ImageView
+                    android:id="@+id/find_plugin_tip"
+                    android:layout_width="8.0dip"
+                    android:layout_height="8.0dip"
+                    android:layout_alignRight="@+id/find_plugin_2"
+                    android:layout_alignTop="@+id/find_plugin_2"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/bg_count_tip"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_3"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/pray"
+                    android:text="@string/long_tb_dongbei" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_more_line_2" />
+
+        <!-- 第二行数据 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="90.0dip"
+            android:baselineAligned="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_4"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/business_friend"
+                    android:text="@string/long_tb_xinan" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_5"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/health"
+                    android:text="@string/long_tb_huazhong" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/find_plugin_6"
+                    style="@style/textview_more"
+                    android:drawableTop="@mipmap/parent_child"
+                    android:text="@string/long_tb_huanan" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</FrameLayout>
+
+

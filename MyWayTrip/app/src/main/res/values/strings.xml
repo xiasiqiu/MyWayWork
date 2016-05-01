@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">麦味锋行</string>
+
+    /**菜单*/
+    <string name="tab_main">乡村自驾</string>
+    <string name="tab_long">长线自驾</string>
+    <string name="tab_out">境外自驾</string>
+    <string name="tab_news">旅游资讯</string>
+    <string name="tab_mine">个人中心</string>
+
+
+    <string name="main_tb_children">亲子之旅</string>
+    <string name="main_tb_photo">摄影之旅</string>
+    <string name="main_tb_blessing">祈福之旅</string>
+    <string name="main_tb_friend">交友之旅</string>
+    <string name="main_tb_health">养生之旅</string>
+
+    <string name="long_tb_sichuan">川藏线</string>
+    <string name="long_tb_xibei">西北线</string>
+    <string name="long_tb_dongbei">东北线</string>
+    <string name="long_tb_xinan">西南线</string>
+    <string name="long_tb_huazhong">华中线</string>
+    <string name="long_tb_huanan">华南线</string>
+
+
+    <string name="pull_to_refresh_header_hint_loading">加载更多</string>
+
+    <string name="pushmsg_center_no_more_msg">沒有新的东西了</string>
+
+
+
+    <string name="mine_myorder">我的订单</string>
+    <string name="mine_collection">我的收藏</string>
+    <string name="mine_info">我的资料</string>
+    <string name="mine_info_more">个人资料、常用信息</string>
+    <string name="mine_history">我的历史</string>
+    <string name="mine_history_more">浏览过的线路</string>
+    <string name="mine_foot">我的足迹</string>
+    <string name="mine_foot_more">参加过的线路</string>
+    <string name="mine_setting">我的设置</string>
+    <string name="mine_myway">麦味锋行</string>
+</resources>

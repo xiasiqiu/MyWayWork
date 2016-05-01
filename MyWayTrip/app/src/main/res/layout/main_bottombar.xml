@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottombar_group"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/bottombar_height"
+    android:layout_alignParentBottom="true"
+    android:layout_gravity="bottom"
+    android:background="@color/main_white"
+    android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@+id/bottombar_main"
+        style="@style/bottombar"
+        android:layout_weight="1"
+        android:button="@null"
+        android:checked="true"
+        android:drawableTop="@drawable/main_main"
+        android:textColor="@drawable/radiocolor"
+        android:text="@string/tab_main" />
+
+    <RadioButton
+        android:id="@+id/bottombar_long"
+        style="@style/bottombar"
+        android:layout_weight="1"
+        android:button="@null"
+        android:drawableTop="@drawable/main_long"
+        android:textColor="@drawable/radiocolor"
+        android:text="@string/tab_long" />
+
+    <RadioButton
+        android:id="@+id/bottombar_out"
+        style="@style/bottombar"
+        android:layout_weight="1"
+        android:button="@null"
+        android:drawableTop="@drawable/main_out"
+        android:textColor="@drawable/radiocolor"
+        android:text="@string/tab_out" />
+
+    <RadioButton
+        android:id="@+id/bottombar_news"
+        style="@style/bottombar"
+        android:layout_weight="1"
+        android:button="@null"
+        android:drawableTop="@drawable/main_news"
+        android:textColor="@drawable/radiocolor"
+        android:text="@string/tab_news" />
+
+    <RadioButton
+        android:id="@+id/bottombar_mine"
+        style="@style/bottombar"
+        android:layout_weight="1"
+        android:button="@null"
+        android:drawableTop="@drawable/main_mine"
+        android:textColor="@drawable/radiocolor"
+        android:text="@string/tab_mine" />
+
+</RadioGroup>

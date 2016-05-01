@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_gray">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/ry_main_line"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <com.bartoszlipinski.recyclerviewheader.RecyclerViewHeader
+        android:id="@+id/main_header"
+        android:layout_width="match_parent"
+        android:layout_height="390dp"
+        android:layout_gravity="center_horizontal|top">
+
+        <com.bigkoo.convenientbanner.ConvenientBanner
+            android:id="@+id/con_banner"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <!-- 整体菜单网格 -->
+
+        <include layout="@layout/main_menu_merge" />
+
+    </com.bartoszlipinski.recyclerviewheader.RecyclerViewHeader>
+</RelativeLayout>
+
+

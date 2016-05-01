@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.9.0_1bee675c8ba950d7f8c87643ce7cfd535a92b049.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.9.0_0da7cdc7c3318e0097b4b38b275b74a26a1ec0c2.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_a77c074acc6155106175935c5dcd2fbe36278430.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.9.0_c62d9ad470faacf84846da67f8a6990b7241d0ff.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_004b62232790bc516ef95589bfa2f28398eb6176.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="37d8643c051d282dc68f1b70f5c6c853016c77b8">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\org.kymjs.kjframe-kjframe-2.6.0.1_76e6167ceae8c2f49d88e44a5bcf2b4c05f00f29.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_6435d39f8d6c91d44ba262ccf717dec5167a87bb.jar" />
+    </item>
+    <item
+        jar="D:\Android\Tools\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a8b7e47c91118a43995374f57aa6088498c99e81.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_5a24b71d3bcc973d270549a037999a06fb721844.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.9.0_1031d59f56c84e7824dcc5d3712b2670b5e9639c.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\1.0.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95ffabedd5ccc5fe0a3e903d5e84b62a776fc381">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.bigkoo-convenientbanner-1.0.6_7abedc6270660ee5b2cbb80356713ff9d9835a7e.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_b82910ca565d43f326e93e3c1ad7dbdf78eb560a.jar" />
+    </item>
+    <item
+        jar="D:\Android\Tools\Android_studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\gson-2.2.4_ab4b69c66ece9cee6dad3531b336ed18b331f95a.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_06cc9bf314eb70115fc5d3f396fe66ca0993c2d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_788ded682682ef3186feecc34a661bd9784264a1.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.bartoszlipinski.recyclerviewheader\library\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6682c1ddbf9360c3bfc7b3780040500b81f2895">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.bartoszlipinski.recyclerviewheader-library-1.2.0_a58dc7e2fffc8401585b61a344ed7de86a18943b.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_4726c3df111d2f45ca9d7e82b81ddb73ab4d8002.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_a27a8f82ac0b46c0541b7fd779ecc0cc456b9053.jar" />
+    </item>
+    <item
+        jar="D:\A_Work\MyWayTrip\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\A_Work\MyWayTrip\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.9.0_69401ae79b8648358e8ddebb3a36897b57510223.jar" />
+    </item>
+
+</items>
